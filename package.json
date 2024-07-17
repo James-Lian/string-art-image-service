@@ -1,5 +1,5 @@
 {
-  "name": "grayscale-image-service",
+  "name": "string-art-image-service",
   "version": "1.0.0",
   "main": "api/grayscale.js",
   "dependencies": {
